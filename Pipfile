@@ -14,7 +14,7 @@ psycopg2-binary = "*"
 gunicorn = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
-flask-script = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
